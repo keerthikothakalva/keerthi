@@ -6,11 +6,15 @@ Passionate about building scalable web applications and exploring how Generative
 
 ### 💡 About Me
 
-* 💻 Building full-stack applications with **React.js, Node.js, Express.js, and MongoDB**
-* 🐍 Currently learning **Python** and **Generative AI**
-* 🤖 Exploring **LLMs, AI Agents, Google Gemini API, LangChain, and RAG**
-* 🧩 **Intermediate in Data Structures & Algorithms**
-* 🌱 Open to **Software Engineer**, **Full Stack (MERN)** and  **MERN + Generative AI** roles
+💻 Building full-stack applications with React.js, Node.js, Express.js, and MongoDB
+
+🐍 Currently learning Python and Generative AI
+
+📚 Learning NLP, Transformers, LLMs, Prompt Engineering, LangChain, RAG, Vector Databases, and Google Gemini API
+
+🧩 Intermediate in Data Structures & Algorithms
+
+🌱 Open to Software Engineer, Full Stack (MERN), and MERN + Generative AI roles
 
 ### 🛠️ Tech Stack
 
