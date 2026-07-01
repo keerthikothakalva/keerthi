@@ -19,6 +19,7 @@ Passionate about building scalable web applications and exploring how Generative
 ### 📫 Connect with Me
 
 => LinkedIn:https://www.linkedin.com/in/keerthi-kothakalva-41739a283/
+
 => Email: keerthikothakalva1729@gmail.com
 
 * Always learning, building, and improving.
