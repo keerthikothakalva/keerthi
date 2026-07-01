@@ -1,30 +1,22 @@
-# Hi, I'm Keerthi Kothakalva
+# Hi 👋, I'm Keerthi Kothakalva
 
-### Full-Stack MERN Developer | Aspiring Software Engineer
+## 🚀 Full Stack MERN Developer | 🤖 Generative AI Enthusiast
 
-Passionate about building scalable web applications and exploring how AI can be integrated into modern software products.
+Passionate about building scalable web applications and exploring how Generative AI is shaping the future of software development.
 
-## About Me
+### 💡 About Me
 
--  Full-Stack MERN Developer
--  Interested in Software Development with AI Integration
--  Currently learning AI Agents, Generative AI, Gemini API, and Multi-Agent Systems
--  Building real-world applications through hands-on projects
--  Strong foundation in Data Structures and Algorithms
--  Aspiring Software Engineer focused on intelligent and scalable applications
+* 💻 Building full-stack applications with **React.js, Node.js, Express.js, and MongoDB**
+* 🐍 Currently learning **Python** and **Generative AI**
+* 🤖 Exploring **LLMs, AI Agents, Google Gemini API, LangChain, and RAG**
+* 🧩 **Intermediate in Data Structures & Algorithms**
+* 🌱 Open to **Software Engineer**, **Full Stack (MERN)** and  **MERN + Generative AI** roles
 
-## Currently Learning
+### 🛠️ Tech Stack
 
-- AI Agents
-- Generative AI
-- Google Gemini API
-- Agentic Workflows
-- Multi-Agent Systems
-- Production-Ready AI Applications
+**JavaScript • Python • React.js • Node.js • Express.js • MongoDB • SQL • Git • GitHub • REST APIs**
 
-Currently participating in Kaggle's **5-Day AI Agents: Intensive Vibe Coding Course with Google**
-
-## Connect With Me
+### 📫 Connect with Me
 
 => LinkedIn:https://www.linkedin.com/in/keerthi-kothakalva-41739a283/
 => Email: keerthikothakalva1729@gmail.com
